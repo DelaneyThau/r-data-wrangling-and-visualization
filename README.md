@@ -13,3 +13,8 @@ Projects emphasize data cleaning, exploratory analysis, and clear visualization.
 - Focus: exploratory data analysis and presentation
 - Tools: R, tidyverse
 - Output: written analysis with figures
+
+### Design of Experiments
+- Focus: randomization, experimental design, causal analysis
+- Tools: R Markdown
+- Output: written analysis with figures
